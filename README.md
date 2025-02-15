@@ -18,7 +18,7 @@ This is a non-commercial, personal project created for tracking KSP item prices.
 
 ### Manual Installation (HACS not yet supported)
 
-1. Copy the `ksp_price_tracker` folder from this repository to your Home Assistant `custom_components` directory
+1. Copy the `ksp_price_tracker` folder from `custom_components` directory to your Home Assistant `custom_components` directory
 2. Restart Home Assistant
 3. Go to Configuration → Integrations
 4. Click the "+ ADD INTEGRATION" button

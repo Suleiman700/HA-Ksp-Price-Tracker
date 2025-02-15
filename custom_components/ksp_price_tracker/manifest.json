@@ -1,0 +1,11 @@
+{
+    "domain": "ksp_price_tracker",
+    "name": "KSP Price Tracker",
+    "documentation": "https://github.com/Suleiman700/HA-Ksp-Price-Tracker",
+    "dependencies": [],
+    "codeowners": [],
+    "requirements": ["aiohttp"],
+    "version": "1.0.0",
+    "config_flow": true,
+    "iot_class": "cloud_polling"
+}
