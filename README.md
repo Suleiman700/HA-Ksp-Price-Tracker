@@ -7,6 +7,7 @@ A Home Assistant integration that tracks prices from KSP
 This is a non-commercial, personal project created for tracking KSP item prices. The project is not affiliated with or endorsed by KSP (or any related companies). It is intended for educational and personal use only. If KSP or any associated party has concerns or wishes for this project to be taken down, please contact me via email, and I will take the necessary action.
 
 ---
+![chrome_YLE5HwzSoe](https://github.com/user-attachments/assets/dcb791e9-8f28-4b92-a401-bf7bb4f65ec0)
 
 https://github.com/user-attachments/assets/dca7ca50-9a79-45d3-b56d-771a8c48465b
 
